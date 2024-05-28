@@ -9,3 +9,6 @@ https://one.one.one.one
 # 设置教程
 https://www.youtube.com/watch?v=Q1sYcq4JepU#/
 
+# 安装之后无法启动
+
+- 验证的时候 用chrome浏览器
